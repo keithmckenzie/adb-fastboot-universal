@@ -4,6 +4,10 @@ Description:
 
 This tool allows you to use ADB and Fastboot on android devices.
 
+Disclaimer:
+
+What you do with this tool is up to you I/we will not be responsible if you brick your device. By using this tool you agree to these terms.
+
 -------------------------------------------------------------------
 
 Linux Usage:
