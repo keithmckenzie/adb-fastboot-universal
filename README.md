@@ -1,6 +1,6 @@
 # ADB and Fastboot Universal - 1
 
-Thanks to Google Android for creating these files.
+Description:
 
 This tool allows you to use ADB and Fastboot on android devices.
 
@@ -33,3 +33,7 @@ adb sideload xxxxx.zip
 MAC
 
 to be tested.
+
+Thanks to:
+
+Google/Android
