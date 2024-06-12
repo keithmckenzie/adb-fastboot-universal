@@ -1,12 +1,12 @@
-# ADB and Fastboot Universal - 1
+# Easy ADB and Fastboot Universal
 
 Description:
 
-This tool allows you to use ADB and Fastboot on android devices.
+This tool allows you to use ADB and Fastboot on Android devices.
 
 Disclaimer:
 
-What you do with this tool is up to you I/we will not be responsible if you brick your device. By using this tool you agree to these terms.
+What you do with this tool is up to you I will not be responsible if you brick your device. By using this tool you agree to these terms.
 
 -------------------------------------------------------------------
 
