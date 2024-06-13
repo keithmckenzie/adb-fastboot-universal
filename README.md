@@ -12,7 +12,7 @@ What you do with this tool is up to you I will not be responsible if you brick y
 
 Linux Usage:
 
-Put your files in the folder (custom roms, files)
+Put the files you wish to use in the folder.
 
 use ./fastboot or ./adb in terminal before every command, example:
 ./fastboot flash boot boot.img
@@ -22,22 +22,19 @@ use ./fastboot or ./adb in terminal before every command, example:
 
 Windows usage
 
-Put your files in the folder (custom roms, files)
+Put the files you wish to use in the folder, such as a boot.img
 
 adb prefix: adb
 fastboot prefix: fastboot
+fastboot flash boot boot.img
 
-examples:
+Other examples:
 
 fastboot flashing unlock
 adb sideload xxxxx.zip
 
 -------------------------------------------------------------------
 
-MAC
+Credits:
 
-to be tested.
-
-Thanks to:
-
-Google/Android
+Google Android SDK
